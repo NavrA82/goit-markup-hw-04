@@ -268,7 +268,6 @@ ul {
   display: block;
   width: 64px;
   height: 64px;
-
 }
 
 /* -------------- WHAT ARE WE DOING SECTION ---------------- */
@@ -295,7 +294,6 @@ padding-bottom: var(--basic-settings-padding-section);
   gap: var(--basic-settings-gap);
   margin-top: 72px;
   justify-content: center;
-  
 }
 .team-card-item {
   background: var(--fourth-background-color);
