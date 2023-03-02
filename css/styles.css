@@ -266,8 +266,8 @@ ul {
 }
 .principles-icon {
   display: block;
-  width: 64px;
-  height: 64px;
+  /* width: 64px;
+  height: 64px; */
 }
 
 /* -------------- WHAT ARE WE DOING SECTION ---------------- */
@@ -487,8 +487,8 @@ background: #404BBF;
   justify-content: center;
 }
 .footer-icon {
-  width: 16px;
-  height: 16px;
+  width: 24px;
+  height: 24px;
 }
 .footer-social-link:is(:hover, :focus) {
   background: #31D0AA;
